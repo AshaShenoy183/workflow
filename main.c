@@ -1,6 +1,4 @@
-pseudo code
+feature1()
 {
-Initial Function()
-{
-  //Sample Code
+  //Sample Code for Feature 1
 }
